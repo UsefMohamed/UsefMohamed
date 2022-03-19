@@ -12,5 +12,5 @@ I Started In The Field Of Programming Since 2019, I Started In The Field Of Fron
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 
 ### :fire: My Stats : 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsefMohamed)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsefMohamed&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
