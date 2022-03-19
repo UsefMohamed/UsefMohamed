@@ -1,5 +1,4 @@
 ### Hi there 👋, My Name Is UsefMohamed
-<div algin="center"><img src="https://github.com/AbdlrahmanSaberAbdo/AbdlrahmanSaberAbdo/blob/main/banner.png" width="200" height="300"/></div>
 ### I am Front End Developer
 I'm An Lover Of Front End Developer And Everything That's Related To It 
 <div align="center"><img src="https://github.com/AbdlrahmanSaberAbdo/AbdlrahmanSaberAbdo/blob/main/thoughtworks-gif_dribbble.gif" width="400" height="300"/> </div>
