@@ -1,5 +1,5 @@
-<div align="center">### Hi there 👋 My Name Is UsefMohamed</div>
-### I am Front End Developer
+<div align="center" text="bold">Hi there 👋 My Name Is UsefMohamed</div>
+<div align="center" text="bold">I am Front End Developer</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
