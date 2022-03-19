@@ -18,5 +18,9 @@ I Started In The Field Of Programming Since 2019, I Started In The Field Of Fron
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsefMohamed&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :heart: contact me :
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+<div id="badges">
+  <a href="https://www.linkedin.com/in/usef-mohamed-73663b22b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
