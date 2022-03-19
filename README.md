@@ -13,4 +13,4 @@ I Started In The Field Of Programming Since 2019, I Started In The Field Of Fron
 
 ### :fire: My Stats : 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usefMohamed)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsefMohamed&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
