@@ -6,7 +6,7 @@
 I Started In The Field Of Programming Since 2019, I Started In The Field Of Front-end Development About A Year Ago, Here I Will Show All My Work I Hope You Like It.
 
 #### 🔭 I’m currently working on Self Training
-#### 🌱 I’m currently learning Sass, React Js
+#### 🌱 I’m currently learning React Js
 #### 👨‍💻 All of my projects are available at
 https://github.com/UsefMohamed?tab=repositories
 
@@ -16,7 +16,6 @@ https://github.com/UsefMohamed?tab=repositories
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
-// <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
 
 ### :fire: My Stats : 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsefMohamed)](https://github.com/anuraghazra/github-readme-stats)
