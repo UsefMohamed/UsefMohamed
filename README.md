@@ -6,7 +6,7 @@
 I Started In The Field Of Programming Since 2019, I Started In The Field Of Front-end Development About A Year Ago, Here I Will Show All My Work I Hope You Like It.
 
 #### 🔭 I’m currently working on Self Training
-#### 🌱 I’m currently learning React Js
+#### 🌱 I’m currently learning JavaScript
 #### 👨‍💻 All of my projects are available at
 https://github.com/UsefMohamed?tab=repositories
 
