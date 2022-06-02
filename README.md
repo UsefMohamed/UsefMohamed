@@ -16,9 +16,6 @@ I Started In The Field Of Programming Since 2019, I Started In The Field Of Fron
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UsefMohamed&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UsefMohamed&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌐Socials
-<a href = "https://linkedin.com/in/https://www.linkedin.com/in/usef-mohamed-73663b22b">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/usef-mohamed-73663b22b)</a>
-
 [![](https://visitcount.itsvg.in/api?id=UsefMohamed&icon=0&color=9)](https://visitcount.itsvg.in)
 
 ## ✍️Random Dev Quote
