@@ -1,15 +1,22 @@
-<h3 align="center">A Passionate FrontEnd Developer From Egypt</h3>
+## Hi, My Name Is Usef Mohamed
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usefmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="usefmohamed" /> </p>
+<div align="center"><img src="https://github.com/AbdlrahmanSaberAbdo/AbdlrahmanSaberAbdo/blob/main/thoughtworks-gif_dribbble.gif" width="400" height="300"/> </div>
+I Started In The Field Of Programming Since 2019, I Started In The Field Of Front-end Development About A Year Ago, Here I Will Show All My Work I Hope You Like It.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/usef mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usef mohamed" height="30" width="40" /></a>
-</p>
+#### 🔭 I’m currently working on Self Development
+#### 🌱 I’m currently learning JavaScript
+#### 👨‍💻 All of my projects are available at
+<a href="https://github.com/UsefMohamed?tab=repositories">Projects</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+### :hammer_and_wrench: Languages And Tool's :
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UsefMohamed&show_icons=true&locale=en&layout=compact" alt="usefmohamed" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UsefMohamed&show_icons=true&locale=en" alt="usefmohamed" /></p>
+### :heart: Contact Me :
+<div id="badges">
+  <a href="https://www.linkedin.com/in/usef-mohamed-73663b22b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
