@@ -1,7 +1,7 @@
 ## Hi, My Name Is Usef Mohamed
 
 <div align="center"><img src="https://github.com/AbdlrahmanSaberAbdo/AbdlrahmanSaberAbdo/blob/main/thoughtworks-gif_dribbble.gif" width="400" height="300"/> </div>
-I Started In The Field Of Programming Since 2019, I Started In The Field Of Front-end Development About A Year Ago, Here I Will Show All My Work I Hope You Like It.
+I'm Learning Front End Development, I Found My Passion In It, I was originally born in Egypt and I'm still there, I Love Reading, It's Actually Wonderful
 
 ## 💫About Me :
 #### <div>🔭 I’m currently working on Self Development</div>
